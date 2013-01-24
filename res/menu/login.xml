@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- 
+    <item
+        android:id="@+id/forgot_password"
+        android:showAsAction="never"
+        android:title="@string/forgot_password"></item>
+-->
+    <item android:id="@+id/exit_app" android:title="@string/exit_app"></item>
+
+</menu>

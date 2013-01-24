@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">读彩</string>
+    <string name="loading">加载中&#8230;</string>
+    <string name="logout">注销登录</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">底部导航</string>
+    <string name="title_activity_post">显示文章</string>
+    <string name="sample">待定</string>
+    <string name="exit_app">退出应用</string>
+    <string name="next_post">下一篇</string>
+    <string name="img_button">可点击</string>
+
+</resources>
